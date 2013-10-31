@@ -111,3 +111,37 @@ tools/jenkins_scripts/mac/android/userconf.ini
 
 # CTags
 tags
+
+# Ignore cocos2d-x files
+AUTHORS
+build-nacl.sh
+build-win32.bat
+CHANGELOG
+cocos2d-win32.vc2010.sln
+cocos2d-win32.vc2012.sln
+cocos2d-winrt.vc2012.sln
+cocos2d-wp8.vc2012.sln
+cocos2dx
+CocosDenshion
+document
+Emscripten.TODO
+extensions
+external
+install-deps-linux.sh
+licenses
+make-all-linux-project.sh
+Makefile
+Makefile.emscripten
+plugin
+README.mdown
+samples
+scripting
+template
+tools
+obj
+
+.metadata
+
+cocos2d-x-2.2/.gitmodules
+
+cocos2d-x-2.2/.travis.yml

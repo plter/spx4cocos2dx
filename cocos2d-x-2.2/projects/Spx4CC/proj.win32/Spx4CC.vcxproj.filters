@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\spx4cc">
+      <UniqueIdentifier>{c51eebd9-f4d5-4c83-b773-7bc4d3067946}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCAFCAnimation.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCAFCClip.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCAFCClipMapping.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCAFCFrame.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCAFCSprite.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPX3Action.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPX3FileData.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPX3Frame.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPX3Loader.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPX3Manager.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPX3Sprite.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPX3TileSet.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPXAction.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPXFileData.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPXFrame.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPXLoader.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPXManager.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCSPXSprite.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\spx4cc\CCUtils.cpp">
+      <Filter>Classes\spx4cc</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCAFCAnimation.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCAFCClip.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCAFCClipMapping.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCAFCConstants.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCAFCFrame.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCAFCSprite.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCMoreMacros.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPX3Action.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPX3Constants.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPX3FileData.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPX3Frame.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPX3Loader.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPX3Manager.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPX3Sprite.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPX3TileSet.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPXAction.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPXConstants.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPXFileData.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPXFrame.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPXLoader.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPXManager.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCSPXSprite.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\CCUtils.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\spx4cc\spx4cc.h">
+      <Filter>Classes\spx4cc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
